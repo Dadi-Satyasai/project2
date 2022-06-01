@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/project2/static/css/main.a60a434d.css",
+    "main.js": "/project2/static/js/main.45b9c004.js",
+    "static/js/787.b7e0f37b.chunk.js": "/project2/static/js/787.b7e0f37b.chunk.js",
+    "static/media/bg3.jpg": "/project2/static/media/bg3.db45c2f95e81bec17703.jpg",
+    "static/media/ecobag.jpg": "/project2/static/media/ecobag.b8410a5ac07ceb22ca12.jpg",
+    "static/media/wallet.jpg": "/project2/static/media/wallet.ea5b5a3c484da93a7c3a.jpg",
+    "static/media/minipurse.jpg": "/project2/static/media/minipurse.16e2b845c3300327b750.jpg",
+    "static/media/blackwatch.jpg": "/project2/static/media/blackwatch.ace01fd465d72736d5b9.jpg",
+    "static/media/purse.jpg": "/project2/static/media/purse.87054ea4d319edae637a.jpg",
+    "static/media/blackshoe.jpg": "/project2/static/media/blackshoe.59b8f0e6f996a074e1bb.jpg",
+    "static/media/hbag2.jpg": "/project2/static/media/hbag2.ed8541e3a07a01ad39c4.jpg",
+    "static/media/paperbag.jpg": "/project2/static/media/paperbag.b0af42d0bc0454383e05.jpg",
+    "static/media/hbag.jpg": "/project2/static/media/hbag.63434901504b511471f3.jpg",
+    "static/media/sammobile.jpg": "/project2/static/media/sammobile.f9332fc2c29b4e002c51.jpg",
+    "static/media/blackbag.jpg": "/project2/static/media/blackbag.b1d5d3dcd32c7de1e036.jpg",
+    "index.html": "/project2/index.html",
+    "main.a60a434d.css.map": "/project2/static/css/main.a60a434d.css.map",
+    "main.45b9c004.js.map": "/project2/static/js/main.45b9c004.js.map",
+    "787.b7e0f37b.chunk.js.map": "/project2/static/js/787.b7e0f37b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60a434d.css",
+    "static/js/main.45b9c004.js"
+  ]
+}
